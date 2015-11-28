@@ -1,0 +1,19 @@
+﻿body {
+    align-content: center;
+}
+
+.container{
+    background-color: lightgrey;
+}
+
+a {
+    font-weight: bold;
+}
+
+.VLabel {
+    font-weight: bold;
+}
+
+.lblPln {
+    font-weight: bold;
+}
